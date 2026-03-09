@@ -104,3 +104,4 @@ function createHeart() {
 // Crear un corazón cada 300ms
 
 setInterval(createHeart, 150);
+
